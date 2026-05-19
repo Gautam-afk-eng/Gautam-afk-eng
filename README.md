@@ -43,10 +43,9 @@ I am a Computer Science and Engineering student (Class of 2028) with a strong fo
 ---
 
 ### 🏆 Featured Projects
-* **[Real-Time AI Proctoring](https://github.com/Gautam-afk-eng/Real-Time-AI-Proctoring):** A multi-modal AI proctoring system using MediaPipe, WebRTC, and Flask.
-* **[Smart Dog Electric Band](https://github.com/Gautam-afk-eng/Smart-Dog-Electric-Band-Project):** A C++ hardware-based smart collar prototype designed to monitor pet activity using an Arduino.
-* **Fraud Detection in Credit Card Transactions:** Machine learning classification model designed for high accuracy in flagging fraudulent patterns. *(Upload coming soon!)*
-* **Disaster-Resilient Wireless Mesh Network Simulator:** Modeling connectivity and node failure recovery for crisis scenarios. *(Upload coming soon!)*
+* 🤖 **[Real-Time AI Proctoring](https://github.com/Gautam-afk-eng/Real-Time-AI-Proctoring):** A multi-modal AI proctoring system using MediaPipe, WebRTC, and Flask.
+* 🐕 **[Smart Dog Electric Band](https://github.com/Gautam-afk-eng/Smart-Dog-Electric-Band-Project):** A C++ hardware-based smart collar prototype designed to monitor pet activity using an Arduino.
+* 📡 **[Disaster-Resilient Wireless Mesh Network Simulator](https://github.com/Gautam-afk-eng/Wireless-Mesh-Network-Simulator):** An interactive network mapping platform designed to test self-healing routing algorithms and failure-recovery protocols during crisis events.
 
 <br>
 <p align="center">
